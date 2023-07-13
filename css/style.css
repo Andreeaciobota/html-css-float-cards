@@ -10,11 +10,13 @@ body{
 }
 
 .container{
-  width: 70;
+  width: 90%;
   margin: auto;
   background-color: white;
 }
 header{
+  width: 70%;
+  margin: auto;
   text-align: center;
 }
 
@@ -26,8 +28,6 @@ h1{
 }
 p{
   margin-top: 40px;
-  margin-right: 230px;
-  margin-left: 230px;
 }
 .col{
   float: left;
@@ -60,5 +60,12 @@ p{
 
 .blue{
   color: rgb(74,201,243)
+  
+}
+  
+.contenuto{
+  text-align: right;
+  padding: 10px;
+  
   
 }
