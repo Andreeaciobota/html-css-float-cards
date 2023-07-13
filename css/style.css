@@ -24,3 +24,41 @@ h1{
   color: hsl(338, 78%, 54%);
    
 }
+p{
+  margin-top: 40px;
+  margin-right: 230px;
+  margin-left: 230px;
+}
+.col{
+  float: left;
+  width: calc(100%/3);
+  color: white;
+  padding: 60px 10px;
+}
+.col ing {
+  width: 100%;
+}
+.clearfix::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+.immagine{
+  width: 30px;
+  float: left;
+}
+.contenitore{
+  background-color: black;
+}
+h3{
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+p{
+  padding-bottom: 8px;
+}
+
+.blue{
+  color: rgb(74,201,243)
+  
+}
